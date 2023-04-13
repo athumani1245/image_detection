@@ -32,3 +32,6 @@ while creating i used the following:
 ## Contributing
 Thanks to my friends.
 Also online stuffs eg. StackOverflow and ChatGpt
+
+## Remarks
+I have decided to use this approach inorder to reduce time and hussle required to build and train models for them to perform. thats why the idea of using TensorFlow came.
